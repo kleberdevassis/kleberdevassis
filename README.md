@@ -13,6 +13,6 @@
 
 11947279592 <img class="img-icon ccw-analytics" id="style-9" data-ccw="style-9" style="height:40px;" src="https://www.speaktech.in/themes/images/whatsapp-icon.png" alt="WhatsApp">
                      
-                                                                                                                  
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)                                                                                                                  
           
 --->
